@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>turmalina2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            156
+            156
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            1
+            1
+            156
+            156
+          </indices>
+         <liveries/>
+        </Item> 
+		<Item>
+          <indices content="char_array">
+            60
+            60
+            156
+            156
+          </indices>
+         <liveries/>
+        </Item> 
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            156
+            156
+          </indices>
+         <liveries/>
+        </Item> 
+      </colors>
+      <kits>
+        <Item>874_turmasedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>turmalina</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            156
+            156
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            36
+            36
+            156
+            156
+          </indices>
+         <liveries/>
+        </Item> 
+		<Item>
+          <indices content="char_array">
+            27
+            27
+            156
+            156
+          </indices>
+         <liveries/>
+        </Item> 
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            156
+            156
+          </indices>
+         <liveries/>
+        </Item> 
+      </colors>
+      <kits>
+        <Item>873_turmalina_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+		<Item>
+      <modelName>ametista</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            156
+            156
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            78
+            78
+            156
+            156
+          </indices>
+         <liveries/>
+        </Item> 
+		<Item>
+          <indices content="char_array">
+            90
+            90
+            156
+            156
+          </indices>
+         <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            156
+            156
+          </indices>
+         <liveries/>
+        </Item>  
+      </colors>
+      <kits>
+        <Item>872_ametista_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
